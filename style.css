@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+
+    font-size: 55px;
+    
+}
+span{
+    color: orange;
+}
+.diet{
+    color: rgb(87, 85, 85);
+}
+.first-div{
+    margin-left: 70px;
+    margin-top: 150px;
+    
+}
+p{
+    color: gray;
+}
+.link{
+    padding: 20px 40px;
+    text-decoration: none;
+    
+    border-radius: 50px;
+    margin-top: 60px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(250, 195, 93),rgb(250, 63, 29));
+
+}
+.second-div{
+    margin-top: 70px;
+}
