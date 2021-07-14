@@ -98,9 +98,10 @@ padding-top: 100px;
     margin-top: 0px;
 }
 .recipie-title{
-    width: 70%;
+    width: 90%;
     height: 50%;
-    margin-left: 10%;
+    margin-left: 5%;
+
 }
 .recipie-heading{
     font-weight: 900;
@@ -117,4 +118,15 @@ padding-top: 100px;
     display: flex;
     padding-top: 50px;
     margin-left: 50px;
+}
+.recipie-box{
+    box-shadow: 20px 20px 100px rgb(214, 211, 211);
+    padding-top: 20px;
+    padding-left: 0%;
+    padding-right: 0px;
+    margin-left: 10px;
+    margin-right: 40px;
+    padding-bottom: 0px;
+    border-radius: 30px;
+
 }
