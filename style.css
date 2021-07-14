@@ -84,6 +84,16 @@ padding-top: 100px;
     color: white;
     font-weight: 700;
 
+}
+.my-recipies{
+    color: gray;
+    text-align: center;
+    font-weight: 800;
+    font-size: 35px;
+    margin-top: 70px;
 
-
+}
+.lorem{
+    text-align: center;
+    margin-top: 0px;
 }
