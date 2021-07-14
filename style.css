@@ -97,3 +97,24 @@ padding-top: 100px;
     text-align: center;
     margin-top: 0px;
 }
+.recipie-title{
+    width: 70%;
+    height: 50%;
+    margin-left: 10%;
+}
+.recipie-heading{
+    font-weight: 900;
+    font-size: 35px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.recipie-paragraph{
+    margin-top: 0%;
+    margin-left: 10%;
+
+}
+.recipie-lorem{
+    display: flex;
+    padding-top: 50px;
+    margin-left: 50px;
+}
