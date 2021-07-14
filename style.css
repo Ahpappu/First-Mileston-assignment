@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
     
 }
 h1{
@@ -90,7 +91,8 @@ padding-top: 100px;
     text-align: center;
     font-weight: 800;
     font-size: 35px;
-    margin-top: 70px;
+    margin-top: 90px;
+    padding-top: 0px;
 
 }
 .lorem{
@@ -159,8 +161,38 @@ padding-top: 100px;
     margin-right: 40px;
 }
 
+.last-head{
+    text-align: center;
+    padding-top: 40px;
+}
+.last-para{
+    text-align: center;
+    
+
+}
+p{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.sp{
+    color: rgb(167, 166, 166);
+}
 
 
+.last{
+    margin-top: 10px;
+    padding-top: px;
+}
+
+
+.final{
+    background-color: black;
+    height: 200px;
+   
+    
+
+}
 
 
 
