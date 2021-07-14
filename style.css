@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    
 }
 h1{
 
@@ -47,3 +48,42 @@ padding-top: 100px;
     margin-bottom: 90px;
 }
 
+.image-two{
+    width: 100%;
+    height: 100%;
+}
+.image-three{
+    width: 100%;
+    height: 100%; 
+}
+.about{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 10%;
+}
+.second-banner img{
+    width: 40%;
+    height: 90%;
+    
+}
+.img{
+    margin-left: 25%;
+    padding-top: 8%;
+}
+.us{
+    color: gray;
+}
+.contact{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(250, 195, 93),rgb(250, 63, 29));
+    margin-left: 10%;
+    padding: 20px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+
+
+
+}
