@@ -130,3 +130,48 @@ padding-top: 100px;
     border-radius: 30px;
 
 }
+.numbers{
+    font-weight: 600;
+    font-size: 45px;
+    
+}
+
+.youtube{
+    padding-left: 150px;
+
+}
+ 
+.ins{
+    padding-left: 80px ;
+}
+
+.dri{
+    padding-left: 80px ;
+
+}
+
+.last-number{
+    display: flex;
+    box-shadow: 10px 10px 70px gray;
+    margin-top: 50px;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
